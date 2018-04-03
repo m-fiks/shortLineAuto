@@ -1,0 +1,77 @@
+/* font-family: 'Bree Serif', serif;
+font-family: 'Alegreya Sans SC', sans-serif;
+font-family: 'Sigmar One', cursive;
+font-family: 'Bowlby One SC', cursive; */
+
+body{
+    /* background-color: rgb(151, 29, 29); */
+    background-image:url('https://lh3.googleusercontent.com/6YvYTc7G5ZERCD7x5sGR3DhyE1hj3e6Xfn1A7eMK3tA57Qah9dISriKAF-_2Ty_nkAUke28Fpk586dafzvoutS_wjKNNRM9_iS11nzZw8MKkPh_ySZT1NH2_TA9nkwqbD3bUFFMxUQ=w2400');
+    background-size: cover;
+    text-align:center;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-size:18px;
+}
+
+h1{
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+.jumbotron{
+    border: 2px solid rgb(11, 15, 24);
+}
+
+#about {
+    border: 2px solid rgb(11, 15, 24);
+    background-color: whitesmoke;
+    color: #242222;
+}
+
+#inventory {
+    border: 2px solid rgb(11, 15, 24);
+    background-color: whitesmoke;
+    color: #242222;
+}
+
+#contact{
+    border: 2px solid rgb(11, 15, 24);
+    background-color:whitesmoke;
+    color: #242222;
+}
+
+h2{
+    width:320px;
+    margin-right:0;
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+.aboutText{
+    float:left;
+}
+
+img{
+    height:400px;
+    width:400px;
+    float:right;
+    padding:11px;
+    margin:10px;
+    border:solid 2px black;
+}
+
+.li{
+    display:inline-block;
+    color: darkslategray;
+}
+
+a{
+    color:darkslategrey;
+}
+
+ul.navbar-nav > li > a:hover {
+    color:rgb(151, 29, 29);
+    font-size:22px;
+}
+
+.car-links > a:hover{
+    color:rgb(151, 29, 29);
+    font-size:22px;
+}
